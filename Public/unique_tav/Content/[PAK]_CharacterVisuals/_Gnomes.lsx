@@ -215,25 +215,7 @@
 						</node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<!-- modded heads start -->
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GNO_Ziahe.Ziahe_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="fad5d20f-4459-4d2c-a481-51b5b8af5aad" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GNO_Ziahe.Ziahe_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="fad5d20f-4459-4d2c-a481-51b5b8af5aad" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Opri.Opri_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="a17ba265-48e8-4106-a3df-73519ad9f6c0" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Opri.Opri_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="a17ba265-48e8-4106-a3df-73519ad9f6c0" />
-								</node>
-								<!-- modded heads end -->
-								<!-- larian start -->
+																<!-- larian start -->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_A.GNO_F_NKD_Head_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="6f8fac5e-fa2d-489c-9bc3-182fdba544e9" />
@@ -591,25 +573,7 @@
 						</node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<!-- modded heads start -->
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GNO_Ziahe.Ziahe_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="fad5d20f-4459-4d2c-a481-51b5b8af5aad" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GNO_Ziahe.Ziahe_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="fad5d20f-4459-4d2c-a481-51b5b8af5aad" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Opri.Opri_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="a17ba265-48e8-4106-a3df-73519ad9f6c0" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Opri.Opri_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="a17ba265-48e8-4106-a3df-73519ad9f6c0" />
-								</node>
-								<!-- modded heads end -->
-								<!-- larian start -->
+																<!-- larian start -->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_A.GNO_F_NKD_Head_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="6f8fac5e-fa2d-489c-9bc3-182fdba544e9" />
@@ -1012,25 +976,7 @@
 						</node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<!-- modded heads start -->
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GNO_Ziahe.Ziahe_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="fad5d20f-4459-4d2c-a481-51b5b8af5aad" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GNO_Ziahe.Ziahe_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="fad5d20f-4459-4d2c-a481-51b5b8af5aad" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Opri.Opri_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="a17ba265-48e8-4106-a3df-73519ad9f6c0" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Opri.Opri_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="a17ba265-48e8-4106-a3df-73519ad9f6c0" />
-								</node>
-								<!-- modded heads end -->
-								<!-- larian start -->
+																<!-- larian start -->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="GNO_F_NKD_Head_A.GNO_F_NKD_Head_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="6f8fac5e-fa2d-489c-9bc3-182fdba544e9" />
@@ -1338,9 +1284,7 @@
 						</node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<!-- modded heads start -->
-								<!-- modded heads end -->
-								<!-- larian start -->
+																<!-- larian start -->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_A.GNO_M_NKD_Head_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="46a6d83f-9c5e-42f1-a173-84d13c9075cd" />
@@ -1637,9 +1581,7 @@
 						</node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<!-- modded heads start -->
-								<!-- modded heads end -->
-								<!-- larian start -->
+																<!-- larian start -->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_A.GNO_M_NKD_Head_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="46a6d83f-9c5e-42f1-a173-84d13c9075cd" />
@@ -1852,10 +1794,7 @@
 						</node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<!-- modded heads start -->
-								
-								<!-- modded heads end -->
-								<!-- larian start -->
+																<!-- larian start -->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="GNO_M_NKD_Head_A.GNO_M_NKD_Head_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="46a6d83f-9c5e-42f1-a173-84d13c9075cd" />

@@ -251,33 +251,7 @@
 						</node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<!-- modded heads start -->
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Kaisa.Kaisa_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="8e34316f-54af-43db-8500-0a9ab80849e2" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Kaisa.Kaisa_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="8e34316f-54af-43db-8500-0a9ab80849e2" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Maisa.Maisa_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="07cfcef5-baff-40ca-9494-0099df8b6020" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Maisa.Maisa_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="07cfcef5-baff-40ca-9494-0099df8b6020" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Olena.Olena_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="45bba44f-490d-4f69-9d4d-7c03714174b2" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Olena.Olena_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="45bba44f-490d-4f69-9d4d-7c03714174b2" />
-								</node>
-								<!-- modded heads end -->
-								<!-- larian start -->
+																<!-- larian start -->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="DWR_F_NKD_Elder_Head_A.DWR_F_NKD_Elder_Head_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="7bc9be70-cd2f-49b1-a113-41a053be06fd" />
@@ -611,33 +585,7 @@
 						</node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<!-- modded heads start -->
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Kaisa.Kaisa_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="8e34316f-54af-43db-8500-0a9ab80849e2" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Kaisa.Kaisa_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="8e34316f-54af-43db-8500-0a9ab80849e2" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Maisa.Maisa_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="07cfcef5-baff-40ca-9494-0099df8b6020" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Maisa.Maisa_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="07cfcef5-baff-40ca-9494-0099df8b6020" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Olena.Olena_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="45bba44f-490d-4f69-9d4d-7c03714174b2" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Olena.Olena_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="45bba44f-490d-4f69-9d4d-7c03714174b2" />
-								</node>
-								<!-- modded heads end -->
-								<!-- larian start -->
+																<!-- larian start -->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="DWR_F_NKD_Elder_Head_A.DWR_F_NKD_Elder_Head_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="7bc9be70-cd2f-49b1-a113-41a053be06fd" />
@@ -929,33 +877,7 @@
 						</node>
 						<node id="RealMaterialOverrides">
 							<node id="Object">
-								<!-- modded heads start -->
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Kaisa.Kaisa_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="8e34316f-54af-43db-8500-0a9ab80849e2" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Kaisa.Kaisa_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="8e34316f-54af-43db-8500-0a9ab80849e2" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Maisa.Maisa_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="07cfcef5-baff-40ca-9494-0099df8b6020" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Maisa.Maisa_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="07cfcef5-baff-40ca-9494-0099df8b6020" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Olena.Olena_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="45bba44f-490d-4f69-9d4d-7c03714174b2" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Olena.Olena_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="45bba44f-490d-4f69-9d4d-7c03714174b2" />
-								</node>
-								<!-- modded heads end -->
-								<!-- larian start -->
+																<!-- larian start -->
 								<attribute id="MapKey" type="FixedString" value="DWR_F_NKD_Elder_Head_A.DWR_F_NKD_Elder_Head_A_Mesh.0" />
 								<attribute id="MapValue" type="FixedString" value="7bc9be70-cd2f-49b1-a113-41a053be06fd" />
 							</node>
@@ -1231,33 +1153,7 @@
 						</node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<!-- modded heads start -->
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Kaisa.Kaisa_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="8e34316f-54af-43db-8500-0a9ab80849e2" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Kaisa.Kaisa_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="8e34316f-54af-43db-8500-0a9ab80849e2" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Maisa.Maisa_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="07cfcef5-baff-40ca-9494-0099df8b6020" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Maisa.Maisa_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="07cfcef5-baff-40ca-9494-0099df8b6020" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Olena.Olena_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="45bba44f-490d-4f69-9d4d-7c03714174b2" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="Olena.Olena_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="45bba44f-490d-4f69-9d4d-7c03714174b2" />
-								</node>
-								<!-- modded heads end -->
-								<!-- larian start -->
+																<!-- larian start -->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="DWR_F_NKD_Elder_Head_A.DWR_F_NKD_Elder_Head_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="7bc9be70-cd2f-49b1-a113-41a053be06fd" />
@@ -1598,9 +1494,7 @@
 						</node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<!-- modded heads start -->
-								<!-- modded heads end -->
-								<!-- larian start -->
+																<!-- larian start -->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="5000206a-1f0e-413e-9bdd-335a9d9a1e27" />
@@ -1890,9 +1784,7 @@
 						</node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<!-- modded heads start -->
-								<!-- modded heads end -->
-								<!-- larian start -->
+																<!-- larian start -->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="5000206a-1f0e-413e-9bdd-335a9d9a1e27" />
@@ -2098,9 +1990,7 @@
 						</node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<!-- modded heads start -->
-								<!-- modded heads end -->
-								<!-- larian start -->
+																<!-- larian start -->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="DWR_M_NKD_Head_A.DWR_M_NKD_Head_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="5000206a-1f0e-413e-9bdd-335a9d9a1e27" />
