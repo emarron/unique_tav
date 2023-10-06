@@ -13938,7 +13938,7 @@
                     </children>
                 </node>
                 <!-- TAIL -->
-                <!-- <node id="Resource">
+                <node id="Resource">
                     <attribute id="AttachBone" type="FixedString" value="" />
                     <attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
                     <attribute id="BlueprintInstanceResourceID" type="FixedString" value="b55a0184-9506-4367-2401-76f40aa15c75" />
@@ -13971,31 +13971,31 @@
                         <node id="ClothProxyMapping" />
                         <node id="Objects">
                             <attribute id="LOD" type="uint8" value="0" />
-                            <attribute id="MaterialID" type="FixedString" value="b3b205a0-3570-c06c-65a9-df9b95afc435" />
+                            <attribute id="MaterialID" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
                             <attribute id="ObjectID" type="FixedString" value="TIF_F_Tail_A.TIF_F_NKD_Tail_A_Mesh.0" />
                         </node>
                         <node id="Objects">
                             <attribute id="LOD" type="uint8" value="1" />
-                            <attribute id="MaterialID" type="FixedString" value="b3b205a0-3570-c06c-65a9-df9b95afc435" />
+                            <attribute id="MaterialID" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
                             <attribute id="ObjectID" type="FixedString" value="TIF_F_Tail_A.TIF_F_NKD_Tail_A_Mesh_LOD1.1" />
                         </node>
                         <node id="Objects">
                             <attribute id="LOD" type="uint8" value="2" />
-                            <attribute id="MaterialID" type="FixedString" value="b3b205a0-3570-c06c-65a9-df9b95afc435" />
+                            <attribute id="MaterialID" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
                             <attribute id="ObjectID" type="FixedString" value="TIF_F_Tail_A.TIF_F_NKD_Tail_A_Mesh_LOD2.2" />
                         </node>
                         <node id="Objects">
                             <attribute id="LOD" type="uint8" value="3" />
-                            <attribute id="MaterialID" type="FixedString" value="b3b205a0-3570-c06c-65a9-df9b95afc435" />
+                            <attribute id="MaterialID" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
                             <attribute id="ObjectID" type="FixedString" value="TIF_F_Tail_A.TIF_F_NKD_Tail_A_Mesh_LOD3.3" />
                         </node>
                         <node id="Objects">
                             <attribute id="LOD" type="uint8" value="4" />
-                            <attribute id="MaterialID" type="FixedString" value="b3b205a0-3570-c06c-65a9-df9b95afc435" />
+                            <attribute id="MaterialID" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
                             <attribute id="ObjectID" type="FixedString" value="TIF_F_Tail_A.TIF_F_NKD_Tail_A_Mesh_LOD4.4" />
                         </node>
                     </children>
-                </node> -->
+                </node>
                 <!-- TIF MALE -->
                 <node id="Resource">
                     <attribute id="AttachBone" type="FixedString" value="" />
@@ -14051,7 +14051,7 @@
                     </children>
                 </node>
                 <!-- TAIL -->
-                <!-- <node id="Resource">
+                <node id="Resource">
                     <attribute id="AttachBone" type="FixedString" value="" />
                     <attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
                     <attribute id="BlueprintInstanceResourceID" type="FixedString" value="f4648ee1-bb8a-1054-e18f-2dc61b7348ab" />
@@ -14082,31 +14082,31 @@
                         <node id="ClothProxyMapping" />
                         <node id="Objects">
                             <attribute id="LOD" type="uint8" value="0" />
-                            <attribute id="MaterialID" type="FixedString" value="8ab7eeb5-49ad-e5ba-9d60-69cec6a3d751" />
+                            <attribute id="MaterialID" type="FixedString" value="e967f1bf-c0c1-47e2-98ed-ad9c40db302c" />
                             <attribute id="ObjectID" type="FixedString" value="TIF_M_NKD_Tail_A.TIF_M_NKD_Tail_A_Mesh.0" />
                         </node>
                         <node id="Objects">
                             <attribute id="LOD" type="uint8" value="1" />
-                            <attribute id="MaterialID" type="FixedString" value="8ab7eeb5-49ad-e5ba-9d60-69cec6a3d751" />
+                            <attribute id="MaterialID" type="FixedString" value="e967f1bf-c0c1-47e2-98ed-ad9c40db302c" />
                             <attribute id="ObjectID" type="FixedString" value="TIF_M_NKD_Tail_A.TIF_M_NKD_Tail_A_Mesh_LOD1.1" />
                         </node>
                         <node id="Objects">
                             <attribute id="LOD" type="uint8" value="2" />
-                            <attribute id="MaterialID" type="FixedString" value="8ab7eeb5-49ad-e5ba-9d60-69cec6a3d751" />
+                            <attribute id="MaterialID" type="FixedString" value="e967f1bf-c0c1-47e2-98ed-ad9c40db302c" />
                             <attribute id="ObjectID" type="FixedString" value="TIF_M_NKD_Tail_A.TIF_M_NKD_Tail_A_Mesh_LOD2.2" />
                         </node>
                         <node id="Objects">
                             <attribute id="LOD" type="uint8" value="3" />
-                            <attribute id="MaterialID" type="FixedString" value="8ab7eeb5-49ad-e5ba-9d60-69cec6a3d751" />
+                            <attribute id="MaterialID" type="FixedString" value="e967f1bf-c0c1-47e2-98ed-ad9c40db302c" />
                             <attribute id="ObjectID" type="FixedString" value="TIF_M_NKD_Tail_A.TIF_M_NKD_Tail_A_Mesh_LOD3.3" />
                         </node>
                         <node id="Objects">
                             <attribute id="LOD" type="uint8" value="4" />
-                            <attribute id="MaterialID" type="FixedString" value="8ab7eeb5-49ad-e5ba-9d60-69cec6a3d751" />
+                            <attribute id="MaterialID" type="FixedString" value="e967f1bf-c0c1-47e2-98ed-ad9c40db302c" />
                             <attribute id="ObjectID" type="FixedString" value="TIF_M_NKD_Tail_A.TIF_M_NKD_Tail_A_Mesh_LOD4.4" />
                         </node>
                     </children>
-                </node> -->
+                </node>
                 <!-- TIF FEMALE STRONG -->
                 <node id="Resource">
                     <attribute id="AttachBone" type="FixedString" value="" />
@@ -14165,65 +14165,65 @@
                     </children>
                 </node>
                 <!-- TAIL -->
-                <!-- <node id="Resource">
-                    <attribute id="AttachBone" type="FixedString" value="" />
-                    <attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
-                    <attribute id="BlueprintInstanceResourceID" type="FixedString" value="b55a0184-9506-4367-2401-76f40aa15c75" />
-                    <attribute id="BoundsMax" type="fvec3" value="0.06204562 1.248126 1.3678" />
-                    <attribute id="BoundsMin" type="fvec3" value="-0.06204563 0.4081371 0.1089675" />
-                    <attribute id="ClothColliderResourceID" type="FixedString" value="" />
-                    <attribute id="HairPresetResourceId" type="FixedString" value="" />
-                    <attribute id="HairType" type="uint8" value="0" />
-                    <attribute id="ID" type="FixedString" value="db7f7c6a-32e1-3b7d-6226-7415cec3f5f5" />
-                    <attribute id="MaterialType" type="uint8" value="0" />
-                    <attribute id="Name" type="LSString" value="TIF_FS_NKD_Tail_Karlach_A" />
-                    <attribute id="NeedsSkeletonRemap" type="bool" value="False" />
-                    <attribute id="RemapperSlotId" type="FixedString" value="" />
-                    <attribute id="ScalpMaterialId" type="FixedString" value="" />
-                    <attribute id="SkeletonResource" type="FixedString" value="6906e3cc-7b8d-a860-dccf-9ad5c87f0e13" />
-                    <attribute id="SkeletonSlot" type="FixedString" value="Tail" />
-                    <attribute id="Slot" type="FixedString" value="NakedBody" />
-                    <attribute id="SoftbodyResourceID" type="FixedString" value="" />
-                    <attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/Tieflings/_FemaleStrong/Resources/TIF_FS_NKD_Tail_A.GR2" />
-                    <attribute id="SupportsVertexColorMask" type="bool" value="False" />
-                    <attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Models/Tieflings/_FemaleStrong/Resources/TIF_FS_NKD_Tail_A.Dummy_Root.0" />
-                    <attribute id="_OriginalFileVersion_" type="int64" value="144115209550692652" />
-                    <children>
-                        <node id="AnimationWaterfall">
-                            <attribute id="Object" type="FixedString" value="e4014b59-402f-0762-c637-cfe1b281be6c" />
-                        </node>
-                        <node id="AnimationWaterfall">
-                            <attribute id="Object" type="FixedString" value="0ce5189d-ce77-ce73-b10a-0e124ca99b28" />
-                        </node>
-                        <node id="Base" />
-                        <node id="ClothProxyMapping" />
-                        <node id="Objects">
-                            <attribute id="LOD" type="uint8" value="0" />
-                            <attribute id="MaterialID" type="FixedString" value="c15ed493-65f8-634a-4080-58b07fa15bae" />
-                            <attribute id="ObjectID" type="FixedString" value="TIF_FS_NKD_Tail_A.TIF_FS_NKD_Tail_A_Mesh.0" />
-                        </node>
-                        <node id="Objects">
-                            <attribute id="LOD" type="uint8" value="1" />
-                            <attribute id="MaterialID" type="FixedString" value="c15ed493-65f8-634a-4080-58b07fa15bae" />
-                            <attribute id="ObjectID" type="FixedString" value="TIF_FS_NKD_Tail_A.TIF_FS_NKD_Tail_A_Mesh_LOD1.1" />
-                        </node>
-                        <node id="Objects">
-                            <attribute id="LOD" type="uint8" value="2" />
-                            <attribute id="MaterialID" type="FixedString" value="c15ed493-65f8-634a-4080-58b07fa15bae" />
-                            <attribute id="ObjectID" type="FixedString" value="TIF_FS_NKD_Tail_A.TIF_FS_NKD_Tail_A_Mesh_LOD2.2" />
-                        </node>
-                        <node id="Objects">
-                            <attribute id="LOD" type="uint8" value="3" />
-                            <attribute id="MaterialID" type="FixedString" value="c15ed493-65f8-634a-4080-58b07fa15bae" />
-                            <attribute id="ObjectID" type="FixedString" value="TIF_FS_NKD_Tail_A.TIF_FS_NKD_Tail_A_Mesh_LOD3.3" />
-                        </node>
-                        <node id="Objects">
-                            <attribute id="LOD" type="uint8" value="4" />
-                            <attribute id="MaterialID" type="FixedString" value="c15ed493-65f8-634a-4080-58b07fa15bae" />
-                            <attribute id="ObjectID" type="FixedString" value="TIF_FS_NKD_Tail_A.TIF_FS_NKD_Tail_A_Mesh_LOD4.4" />
-                        </node>
-                    </children>
-                </node> -->
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="b55a0184-9506-4367-2401-76f40aa15c75" />
+					<attribute id="BoundsMax" type="fvec3" value="0.06204562 1.248126 1.3678" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.06204563 0.4081371 0.1089675" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="df0de3cc-f963-d569-a408-8225cea70605" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="TIF_FS_NKD_Tail_A" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonResource" type="FixedString" value="6906e3cc-7b8d-a860-dccf-9ad5c87f0e13" />
+					<attribute id="SkeletonSlot" type="FixedString" value="Tail" />
+					<attribute id="Slot" type="FixedString" value="NakedBody" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/Characters/_Models/Tieflings/_FemaleStrong/Resources/TIF_FS_NKD_Tail_A.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Shared/Assets/Characters/_Models/Tieflings/_FemaleStrong/Resources/TIF_FS_NKD_Tail_A.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692652" />
+					<children>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="e4014b59-402f-0762-c637-cfe1b281be6c" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="0ce5189d-ce77-ce73-b10a-0e124ca99b28" />
+						</node>
+						<node id="Base" />
+						<node id="ClothProxyMapping" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
+							<attribute id="ObjectID" type="FixedString" value="TIF_FS_NKD_Tail_A.TIF_FS_NKD_Tail_A_Mesh.0" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="1" />
+							<attribute id="MaterialID" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
+							<attribute id="ObjectID" type="FixedString" value="TIF_FS_NKD_Tail_A.TIF_FS_NKD_Tail_A_Mesh_LOD1.1" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="2" />
+							<attribute id="MaterialID" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
+							<attribute id="ObjectID" type="FixedString" value="TIF_FS_NKD_Tail_A.TIF_FS_NKD_Tail_A_Mesh_LOD2.2" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="3" />
+							<attribute id="MaterialID" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
+							<attribute id="ObjectID" type="FixedString" value="TIF_FS_NKD_Tail_A.TIF_FS_NKD_Tail_A_Mesh_LOD3.3" />
+						</node>
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="4" />
+							<attribute id="MaterialID" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
+							<attribute id="ObjectID" type="FixedString" value="TIF_FS_NKD_Tail_A.TIF_FS_NKD_Tail_A_Mesh_LOD4.4" />
+						</node>
+					</children>
+				</node>
                 <!-- TIF MALE STRONG -->
                 <node id="Resource">
                     <attribute id="AttachBone" type="FixedString" value="" />
@@ -14262,7 +14262,7 @@
                     </children>
                 </node>
                 <!-- TAIL -->
-                <!-- <node id="Resource">
+                <node id="Resource">
                     <attribute id="AttachBone" type="FixedString" value="" />
                     <attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
                     <attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
@@ -14293,16 +14293,16 @@
                         <node id="ClothProxyMapping" />
                         <node id="Objects">
                             <attribute id="LOD" type="uint8" value="0" />
-                            <attribute id="MaterialID" type="FixedString" value="8ab7eeb5-49ad-e5ba-9d60-69cec6a3d751" />
+                            <attribute id="MaterialID" type="FixedString" value="e967f1bf-c0c1-47e2-98ed-ad9c40db302c" />
                             <attribute id="ObjectID" type="FixedString" value="TIF_MS_NKD_Tail_A.TIF_MS_NKD_Tail_A_Mesh.0" />
                         </node>
                         <node id="Objects">
                             <attribute id="LOD" type="uint8" value="1" />
-                            <attribute id="MaterialID" type="FixedString" value="8ab7eeb5-49ad-e5ba-9d60-69cec6a3d751" />
+                            <attribute id="MaterialID" type="FixedString" value="e967f1bf-c0c1-47e2-98ed-ad9c40db302c" />
                             <attribute id="ObjectID" type="FixedString" value="TIF_MS_NKD_Tail_A.TIF_MS_NKD_Tail_A_Mesh_LOD1.1" />
                         </node>
                     </children>
-                </node> -->
+                </node>
                 <!-- Fixes Accidentally att:OBJ_ID "HUM_MS_NKD_Body_Genital_A_NoHair*" being falsely IDed as ""HUM_MS_NKD_Body_Genital_C*" which fucks with the actual "HUM_MS_NKD_Body_Genital_C" -->
                 <node id="Resource">
                     <attribute id="AttachBone" type="FixedString" value="" />
