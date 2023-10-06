@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <save>
     <version major="4" minor="0" revision="9" build="0" />
+        <!-- test start -->
+        <region id="CharacterVisualBank">
+            <node id="CharacterVisualBank">
+                <children>
+                    <node id="Resource">
+                        <attribute id="BaseVisual" type="FixedString" value="32c30a04-896d-33fd-69eb-5c5ab5dfa284" />
+                        <attribute id="BodySetVisual" type="FixedString" value="820ddd41-7946-f026-099f-7034983d50d2" />
+                        <attribute id="ID" type="FixedString" value="efd5dd7f-9b16-11dc-d077-fbf46fd92645" />
+                        <attribute id="Localized" type="bool" value="False" />
+                        <attribute id="Name" type="LSString" value="TIF_F_Base" />
+                        <attribute id="_OriginalFileVersion_" type="int64" value="144115188075855891" />
+                        <children>
+                            <node id="Slots">
+                                <attribute id="Slot" type="FixedString" value="Head" />
+                                <attribute id="VisualResource" type="FixedString" value="13afbd7c-e5b0-af81-58ff-2e9745dda035" />
+                            </node>
+                            <node id="Slots">
+                                <attribute id="Slot" type="FixedString" value="Horns" />
+                                <attribute id="VisualResource" type="FixedString" value="cad0f431-a80b-10cd-f8ac-cd7bb40ab91a" />
+                            </node>
+                            <node id="Slots">
+                                <attribute id="Slot" type="FixedString" value="Unassigned" />
+                                <attribute id="VisualResource" type="FixedString" value="d86170e0-f34d-3056-62a3-c3fa99467ff7" />
+                            </node>
+                        </children>
+                    </node>
+                </children>
+            </node>
+        </region>
+        <!-- test end -->
     <region id="MaterialBank">
         <node id="MaterialBank">
             <children>
