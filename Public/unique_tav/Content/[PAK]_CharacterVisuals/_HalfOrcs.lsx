@@ -202,7 +202,17 @@
 						</node>
 						<node id="RealMaterialOverrides">
 							<children>
-																<!-- larian start -->
+								<!-- modded heads start -->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="HRC_Magdaline.Magdaline_Mesh.0" />
+									<attribute id="MapValue" type="FixedString" value="3797ef1a-2c10-4fd9-a37a-00a4234a8e3f" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="HRC_Magdaline.Magdaline_Ears_Mesh.3" />
+									<attribute id="MapValue" type="FixedString" value="3797ef1a-2c10-4fd9-a37a-00a4234a8e3f" />
+								</node>
+								<!-- modded heads end -->
+								<!-- larian start -->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="HRC_F_NKD_Head_A.HRC_F_NKD_Head_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="7d697122-79f6-409d-abac-354db387da1e" />
@@ -527,7 +537,17 @@
 						</node>
 						<node id="RealMaterialOverrides">
 							<children>
-																<!-- larian start -->
+								<!-- modded heads start -->
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="P4_HOrc_HEL_MS_Head_E.P4_HOrc_HEL_MS_Head_E_Mesh.0" />
+									<attribute id="MapValue" type="FixedString" value="35597a65-ad68-4528-bfeb-105e1b622af6" />
+								</node>
+								<node id="Object">
+									<attribute id="MapKey" type="FixedString" value="P4_HOrc_HEL_MS_Head_E.P4_HOrc_HEL_MS_Head_E_Ears_Mesh.3" />
+									<attribute id="MapValue" type="FixedString" value="35597a65-ad68-4528-bfeb-105e1b622af6" />
+								</node>
+								<!-- modded heads end -->
+								<!-- larian start -->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="HRC_M_NKD_Head_A.HRC_M_NKD_Head_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="9df29c78-21a8-4135-a183-f9275a9a6b24" />

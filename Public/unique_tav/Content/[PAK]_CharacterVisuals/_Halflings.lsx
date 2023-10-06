@@ -292,7 +292,9 @@
 						</node>
 						<node id="RealMaterialOverrides">
 							<children>
-																<!-- larian start -->
+								<!-- modded heads start -->
+								<!-- modded heads end -->
+								<!-- larian start -->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="HFL_F_NKD_Head_A.HFL_F_NKD_Head_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="e8f34c1f-3c02-4f70-9029-81afc16222e5" />
@@ -630,7 +632,9 @@
 						</node>
 						<node id="RealMaterialOverrides">
 							<children>
-																<!-- larian start -->
+								<!-- modded heads start -->
+								<!-- modded heads end -->
+								<!-- larian start -->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="HFL_F_NKD_Head_A.HFL_F_NKD_Head_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="e8f34c1f-3c02-4f70-9029-81afc16222e5" />
@@ -955,7 +959,9 @@
 						</node>
 						<node id="RealMaterialOverrides">
 							<children>
-																<!-- larian start -->
+								<!-- modded heads start -->
+								<!-- modded heads end -->
+								<!-- larian start -->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="HFL_M_NKD_Head_A.HFL_M_NKD_Head_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="d00bb4b3-62dd-416f-84f5-4d83743156e1" />
@@ -1233,7 +1239,9 @@
 						</node>
 						<node id="RealMaterialOverrides">
 							<children>
-																<!-- larian start -->
+								<!-- modded heads start -->
+								<!-- modded heads end -->
+								<!-- larian start -->
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="HFL_M_NKD_Head_A.HFL_M_NKD_Head_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="d00bb4b3-62dd-416f-84f5-4d83743156e1" />
