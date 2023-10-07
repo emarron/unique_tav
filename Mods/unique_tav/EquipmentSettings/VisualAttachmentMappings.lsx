@@ -12,7 +12,7 @@
 							<attribute id="MapKey" type="FixedString" value="04883d8a-bbfa-46ff-8984-b257c871bec3" />
 							<children>
 								<node id="MapValue">
-									<attribute id="Object" type="FixedString" value="d86170e0-f34d-3056-62a3-c3fa99467ff7" />
+									<attribute id="Object" type="FixedString" value="8774bce9-d5dc-4993-84f8-75cc4a634ca8" />
 								</node>
 							</children>
 						</node>
