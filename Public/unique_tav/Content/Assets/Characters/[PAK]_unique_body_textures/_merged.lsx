@@ -2,13 +2,13 @@
 <save>
     <version major="4" minor="0" revision="9" build="0" />
     <!-- tiefling tail redirects start -->
-    <region id="CharacterVisualBank">
+    <!-- <region id="CharacterVisualBank">
         <node id="CharacterVisualBank">
             <children>
                 <node id="Resource">
                     <attribute id="BaseVisual" type="FixedString" value="32c30a04-896d-33fd-69eb-5c5ab5dfa284" />
                     <attribute id="BodySetVisual" type="FixedString" value="04883d8a-bbfa-46ff-8984-b257c871bec3" />
-                    <attribute id="ID" type="FixedString" value="efd5dd7f-9b16-11dc-d077-fbf46fd92645" />
+                    <attribute id="ID" type="FixedString" value="fe302270-4d18-40bb-b7a7-fd89c6b4495e" />
                     <attribute id="Localized" type="bool" value="False" />
                     <attribute id="Name" type="LSString" value="TIF_F_Base" />
                     <attribute id="_OriginalFileVersion_" type="int64" value="144115188075855891" />
@@ -29,7 +29,7 @@
                 </node>
             </children>
         </node>
-    </region>
+    </region> -->
     <!-- tiefling tail redirects end -->
     <region id="MaterialBank">
         <node id="MaterialBank">
@@ -14090,7 +14090,7 @@
                     <attribute id="ClothColliderResourceID" type="FixedString" value="" />
                     <attribute id="HairPresetResourceId" type="FixedString" value="" />
                     <attribute id="HairType" type="uint8" value="0" />
-                    <attribute id="ID" type="FixedString" value="67731142-e3cb-1464-91b8-ed305f326713" />
+                    <attribute id="ID" type="FixedString" value="839ef9d9-c988-451a-a4d4-e8ff5207f5b3" />
                     <attribute id="MaterialType" type="uint8" value="0" />
                     <attribute id="Name" type="LSString" value="TIF_M_NKD_Tail_A" />
                     <attribute id="NeedsSkeletonRemap" type="bool" value="False" />
@@ -14204,7 +14204,7 @@
                     <attribute id="ClothColliderResourceID" type="FixedString" value="" />
                     <attribute id="HairPresetResourceId" type="FixedString" value="" />
                     <attribute id="HairType" type="uint8" value="0" />
-                    <attribute id="ID" type="FixedString" value="df0de3cc-f963-d569-a408-8225cea70605" />
+                    <attribute id="ID" type="FixedString" value="ccb2bf76-8a52-4565-a624-c43aa33f9b1e" />
                     <attribute id="MaterialType" type="uint8" value="0" />
                     <attribute id="Name" type="LSString" value="TIF_FS_NKD_Tail_A" />
                     <attribute id="NeedsSkeletonRemap" type="bool" value="False" />
@@ -14301,7 +14301,7 @@
                     <attribute id="ClothColliderResourceID" type="FixedString" value="" />
                     <attribute id="HairPresetResourceId" type="FixedString" value="" />
                     <attribute id="HairType" type="uint8" value="0" />
-                    <attribute id="ID" type="FixedString" value="ee2b04bf-a4f9-f532-091b-d5eef2cc83cd" />
+                    <attribute id="ID" type="FixedString" value="ca7f7224-2040-4a8f-a917-d652b206de9b" />
                     <attribute id="MaterialType" type="uint8" value="0" />
                     <attribute id="Name" type="LSString" value="TIF_MS_NKD_Tail_A" />
                     <attribute id="NeedsSkeletonRemap" type="bool" value="False" />
