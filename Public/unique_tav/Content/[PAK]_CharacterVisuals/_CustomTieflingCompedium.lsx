@@ -259,12 +259,6 @@
 						<node id="RealMaterialOverrides">
 							<children>
 								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Body_A.TIF_F_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
-								</node>
-								
-								
-								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Body_Genital_A.TIF_F_NKD_Body_Genital_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="418d477e-adc7-4bc2-93f8-601354c0e5bc" />
 								</node>
@@ -631,12 +625,6 @@
 						<node id="RealMaterialOverrides">
 							<children>
 								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_FS_NKD_Body_A.TIF_FS_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
-								</node>
-								
-								
-								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_FS_NKD_Body_Genital_B.TIF_FS_NKD_Body_Genital_B_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="109c3994-0b68-4e5c-9472-2aeb635f0649" />
 								</node>
@@ -998,12 +986,6 @@
                         </node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_M_NKD_Body_A.TIF_M_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="e967f1bf-c0c1-47e2-98ed-ad9c40db302c" />
-								</node>
-								
-								
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_M_NKD_Body_Genital_A_BushyHair.TIF_M_NKD_Body_Genital_A_BushyHair_Mesh.1" />
 									<attribute id="MapValue" type="FixedString" value="b0b1592e-4764-4ea6-9937-5260eb4a47f7" />
@@ -1377,12 +1359,6 @@
                         </node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_MS_NKD_Body_A.TIF_MS_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="e967f1bf-c0c1-47e2-98ed-ad9c40db302c" />
-								</node>
-								
-								
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_MS_NKD_Body_Genital_A_Hair.TIF_MS_NKD_Body_Genital_A_Hair_Mesh.1" />
 									<attribute id="MapValue" type="FixedString" value="b0b1592e-4764-4ea6-9937-5260eb4a47f7" />
@@ -1761,12 +1737,6 @@
 						<node id="RealMaterialOverrides">
 							<children>
 								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Body_A.TIF_F_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
-								</node>
-								
-								
-								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Body_Genital_A.TIF_F_NKD_Body_Genital_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="418d477e-adc7-4bc2-93f8-601354c0e5bc" />
 								</node>
@@ -2133,12 +2103,6 @@
 						<node id="RealMaterialOverrides">
 							<children>
 								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_FS_NKD_Body_A.TIF_FS_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
-								</node>
-								
-								
-								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_FS_NKD_Body_Genital_B.TIF_FS_NKD_Body_Genital_B_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="109c3994-0b68-4e5c-9472-2aeb635f0649" />
 								</node>
@@ -2500,12 +2464,6 @@
                         </node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_M_NKD_Body_A.TIF_M_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="e967f1bf-c0c1-47e2-98ed-ad9c40db302c" />
-								</node>
-								
-								
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_M_NKD_Body_Genital_A_BushyHair.TIF_M_NKD_Body_Genital_A_BushyHair_Mesh.1" />
 									<attribute id="MapValue" type="FixedString" value="b0b1592e-4764-4ea6-9937-5260eb4a47f7" />
@@ -2879,12 +2837,6 @@
                         </node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_MS_NKD_Body_A.TIF_MS_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="e967f1bf-c0c1-47e2-98ed-ad9c40db302c" />
-								</node>
-								
-								
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_MS_NKD_Body_Genital_A_Hair.TIF_MS_NKD_Body_Genital_A_Hair_Mesh.1" />
 									<attribute id="MapValue" type="FixedString" value="b0b1592e-4764-4ea6-9937-5260eb4a47f7" />
@@ -3263,12 +3215,6 @@
 						<node id="RealMaterialOverrides">
 							<children>
 								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Body_A.TIF_F_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
-								</node>
-								
-								
-								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Body_Genital_A.TIF_F_NKD_Body_Genital_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="418d477e-adc7-4bc2-93f8-601354c0e5bc" />
 								</node>
@@ -3635,12 +3581,6 @@
 						<node id="RealMaterialOverrides">
 							<children>
 								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_FS_NKD_Body_A.TIF_FS_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
-								</node>
-								
-								
-								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_FS_NKD_Body_Genital_B.TIF_FS_NKD_Body_Genital_B_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="109c3994-0b68-4e5c-9472-2aeb635f0649" />
 								</node>
@@ -4002,12 +3942,6 @@
                         </node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_M_NKD_Body_A.TIF_M_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="e967f1bf-c0c1-47e2-98ed-ad9c40db302c" />
-								</node>
-								
-								
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_M_NKD_Body_Genital_A_BushyHair.TIF_M_NKD_Body_Genital_A_BushyHair_Mesh.1" />
 									<attribute id="MapValue" type="FixedString" value="b0b1592e-4764-4ea6-9937-5260eb4a47f7" />
@@ -4381,12 +4315,6 @@
                         </node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_MS_NKD_Body_A.TIF_MS_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="e967f1bf-c0c1-47e2-98ed-ad9c40db302c" />
-								</node>
-								
-								
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_MS_NKD_Body_Genital_A_Hair.TIF_MS_NKD_Body_Genital_A_Hair_Mesh.1" />
 									<attribute id="MapValue" type="FixedString" value="b0b1592e-4764-4ea6-9937-5260eb4a47f7" />
@@ -4764,12 +4692,6 @@
 						<node id="RealMaterialOverrides">
 							<children>
 								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Body_A.TIF_F_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
-								</node>
-								
-								
-								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Body_Genital_A.TIF_F_NKD_Body_Genital_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="418d477e-adc7-4bc2-93f8-601354c0e5bc" />
 								</node>
@@ -5136,12 +5058,6 @@
 						<node id="RealMaterialOverrides">
 							<children>
 								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_FS_NKD_Body_A.TIF_FS_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
-								</node>
-								
-								
-								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_FS_NKD_Body_Genital_B.TIF_FS_NKD_Body_Genital_B_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="109c3994-0b68-4e5c-9472-2aeb635f0649" />
 								</node>
@@ -5503,12 +5419,6 @@
                         </node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_M_NKD_Body_A.TIF_M_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="e967f1bf-c0c1-47e2-98ed-ad9c40db302c" />
-								</node>
-								
-								
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_M_NKD_Body_Genital_A_BushyHair.TIF_M_NKD_Body_Genital_A_BushyHair_Mesh.1" />
 									<attribute id="MapValue" type="FixedString" value="b0b1592e-4764-4ea6-9937-5260eb4a47f7" />
@@ -5882,12 +5792,6 @@
                         </node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_MS_NKD_Body_A.TIF_MS_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="e967f1bf-c0c1-47e2-98ed-ad9c40db302c" />
-								</node>
-								
-								
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_MS_NKD_Body_Genital_A_Hair.TIF_MS_NKD_Body_Genital_A_Hair_Mesh.1" />
 									<attribute id="MapValue" type="FixedString" value="b0b1592e-4764-4ea6-9937-5260eb4a47f7" />
@@ -6266,12 +6170,6 @@
 						<node id="RealMaterialOverrides">
 							<children>
 								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Body_A.TIF_F_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
-								</node>
-								
-								
-								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Body_Genital_A.TIF_F_NKD_Body_Genital_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="418d477e-adc7-4bc2-93f8-601354c0e5bc" />
 								</node>
@@ -6638,12 +6536,6 @@
 						<node id="RealMaterialOverrides">
 							<children>
 								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_FS_NKD_Body_A.TIF_FS_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
-								</node>
-								
-								
-								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_FS_NKD_Body_Genital_B.TIF_FS_NKD_Body_Genital_B_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="109c3994-0b68-4e5c-9472-2aeb635f0649" />
 								</node>
@@ -7005,12 +6897,6 @@
                         </node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_M_NKD_Body_A.TIF_M_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="e967f1bf-c0c1-47e2-98ed-ad9c40db302c" />
-								</node>
-								
-								
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_M_NKD_Body_Genital_A_BushyHair.TIF_M_NKD_Body_Genital_A_BushyHair_Mesh.1" />
 									<attribute id="MapValue" type="FixedString" value="b0b1592e-4764-4ea6-9937-5260eb4a47f7" />
@@ -7384,12 +7270,6 @@
                         </node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_MS_NKD_Body_A.TIF_MS_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="e967f1bf-c0c1-47e2-98ed-ad9c40db302c" />
-								</node>
-								
-								
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_MS_NKD_Body_Genital_A_Hair.TIF_MS_NKD_Body_Genital_A_Hair_Mesh.1" />
 									<attribute id="MapValue" type="FixedString" value="b0b1592e-4764-4ea6-9937-5260eb4a47f7" />
@@ -7767,12 +7647,6 @@
 						<node id="RealMaterialOverrides">
 							<children>
 								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Body_A.TIF_F_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
-								</node>
-								
-								
-								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Body_Genital_A.TIF_F_NKD_Body_Genital_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="418d477e-adc7-4bc2-93f8-601354c0e5bc" />
 								</node>
@@ -8139,12 +8013,6 @@
 						<node id="RealMaterialOverrides">
 							<children>
 								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_FS_NKD_Body_A.TIF_FS_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
-								</node>
-								
-								
-								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_FS_NKD_Body_Genital_B.TIF_FS_NKD_Body_Genital_B_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="109c3994-0b68-4e5c-9472-2aeb635f0649" />
 								</node>
@@ -8506,12 +8374,6 @@
                         </node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_M_NKD_Body_A.TIF_M_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="e967f1bf-c0c1-47e2-98ed-ad9c40db302c" />
-								</node>
-								
-								
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_M_NKD_Body_Genital_A_BushyHair.TIF_M_NKD_Body_Genital_A_BushyHair_Mesh.1" />
 									<attribute id="MapValue" type="FixedString" value="b0b1592e-4764-4ea6-9937-5260eb4a47f7" />
@@ -8885,12 +8747,6 @@
                         </node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_MS_NKD_Body_A.TIF_MS_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="e967f1bf-c0c1-47e2-98ed-ad9c40db302c" />
-								</node>
-								
-								
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_MS_NKD_Body_Genital_A_Hair.TIF_MS_NKD_Body_Genital_A_Hair_Mesh.1" />
 									<attribute id="MapValue" type="FixedString" value="b0b1592e-4764-4ea6-9937-5260eb4a47f7" />
@@ -9268,12 +9124,6 @@
 						<node id="RealMaterialOverrides">
 							<children>
 								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Body_A.TIF_F_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
-								</node>
-								
-								
-								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Body_Genital_A.TIF_F_NKD_Body_Genital_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="418d477e-adc7-4bc2-93f8-601354c0e5bc" />
 								</node>
@@ -9640,12 +9490,6 @@
 						<node id="RealMaterialOverrides">
 							<children>
 								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_FS_NKD_Body_A.TIF_FS_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
-								</node>
-								
-								
-								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_FS_NKD_Body_Genital_B.TIF_FS_NKD_Body_Genital_B_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="109c3994-0b68-4e5c-9472-2aeb635f0649" />
 								</node>
@@ -10007,12 +9851,6 @@
                         </node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_M_NKD_Body_A.TIF_M_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="e967f1bf-c0c1-47e2-98ed-ad9c40db302c" />
-								</node>
-								
-								
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_M_NKD_Body_Genital_A_BushyHair.TIF_M_NKD_Body_Genital_A_BushyHair_Mesh.1" />
 									<attribute id="MapValue" type="FixedString" value="b0b1592e-4764-4ea6-9937-5260eb4a47f7" />
@@ -10386,12 +10224,6 @@
                         </node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_MS_NKD_Body_A.TIF_MS_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="e967f1bf-c0c1-47e2-98ed-ad9c40db302c" />
-								</node>
-								
-								
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_MS_NKD_Body_Genital_A_Hair.TIF_MS_NKD_Body_Genital_A_Hair_Mesh.1" />
 									<attribute id="MapValue" type="FixedString" value="b0b1592e-4764-4ea6-9937-5260eb4a47f7" />
@@ -10769,12 +10601,6 @@
 						<node id="RealMaterialOverrides">
 							<children>
 								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Body_A.TIF_F_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
-								</node>
-								
-								
-								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Body_Genital_A.TIF_F_NKD_Body_Genital_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="418d477e-adc7-4bc2-93f8-601354c0e5bc" />
 								</node>
@@ -11141,12 +10967,6 @@
 						<node id="RealMaterialOverrides">
 							<children>
 								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_FS_NKD_Body_A.TIF_FS_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
-								</node>
-								
-								
-								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_FS_NKD_Body_Genital_B.TIF_FS_NKD_Body_Genital_B_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="109c3994-0b68-4e5c-9472-2aeb635f0649" />
 								</node>
@@ -11508,12 +11328,6 @@
                         </node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_M_NKD_Body_A.TIF_M_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="e967f1bf-c0c1-47e2-98ed-ad9c40db302c" />
-								</node>
-								
-								
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_M_NKD_Body_Genital_A_BushyHair.TIF_M_NKD_Body_Genital_A_BushyHair_Mesh.1" />
 									<attribute id="MapValue" type="FixedString" value="b0b1592e-4764-4ea6-9937-5260eb4a47f7" />
@@ -11887,12 +11701,6 @@
                         </node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_MS_NKD_Body_A.TIF_MS_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="e967f1bf-c0c1-47e2-98ed-ad9c40db302c" />
-								</node>
-								
-								
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_MS_NKD_Body_Genital_A_Hair.TIF_MS_NKD_Body_Genital_A_Hair_Mesh.1" />
 									<attribute id="MapValue" type="FixedString" value="b0b1592e-4764-4ea6-9937-5260eb4a47f7" />
@@ -12270,12 +12078,6 @@
 						<node id="RealMaterialOverrides">
 							<children>
 								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Body_A.TIF_F_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
-								</node>
-								
-								
-								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_F_NKD_Body_Genital_A.TIF_F_NKD_Body_Genital_A_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="418d477e-adc7-4bc2-93f8-601354c0e5bc" />
 								</node>
@@ -12642,12 +12444,6 @@
 						<node id="RealMaterialOverrides">
 							<children>
 								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_FS_NKD_Body_A.TIF_FS_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="9d114224-5d7d-4db9-890f-31da952b4772" />
-								</node>
-								
-								
-								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_FS_NKD_Body_Genital_B.TIF_FS_NKD_Body_Genital_B_Mesh.0" />
 									<attribute id="MapValue" type="FixedString" value="109c3994-0b68-4e5c-9472-2aeb635f0649" />
 								</node>
@@ -13009,12 +12805,6 @@
                         </node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_M_NKD_Body_A.TIF_M_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="e967f1bf-c0c1-47e2-98ed-ad9c40db302c" />
-								</node>
-								
-								
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_M_NKD_Body_Genital_A_BushyHair.TIF_M_NKD_Body_Genital_A_BushyHair_Mesh.1" />
 									<attribute id="MapValue" type="FixedString" value="b0b1592e-4764-4ea6-9937-5260eb4a47f7" />
@@ -13388,12 +13178,6 @@
                         </node>
 						<node id="RealMaterialOverrides">
 							<children>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="TIF_MS_NKD_Body_A.TIF_MS_NKD_Body_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="e967f1bf-c0c1-47e2-98ed-ad9c40db302c" />
-								</node>
-								
-								
 								<node id="Object">
 									<attribute id="MapKey" type="FixedString" value="TIF_MS_NKD_Body_Genital_A_Hair.TIF_MS_NKD_Body_Genital_A_Hair_Mesh.1" />
 									<attribute id="MapValue" type="FixedString" value="b0b1592e-4764-4ea6-9937-5260eb4a47f7" />
