@@ -3959,7 +3959,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="d5c3d399-d0a6-018a-caba-6e5496f3e939" />
-					<attribute id="BodySetVisual" type="FixedString" value="df0de3cc-f963-d569-a408-8225cea70605" />
+					<attribute id="BodySetVisual" type="FixedString" value="fb3af81e-0311-4366-9fa4-26361e585be8" />
 					<attribute id="ID" type="FixedString" value="351d13d4-a4de-0dd0-24df-3a194285c7e6" />
 					<attribute id="Name" type="LSString" value="Tieflings_Male_Asmodeus_Player_Strong_e2a05c9a-7366-4833-86e8-80764e111b71" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -4327,7 +4327,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="d5c3d399-d0a6-018a-caba-6e5496f3e939" />
-					<attribute id="BodySetVisual" type="FixedString" value="df0de3cc-f963-d569-a408-8225cea70605" />
+					<attribute id="BodySetVisual" type="FixedString" value="fb3af81e-0311-4366-9fa4-26361e585be8" />
 					<attribute id="ID" type="FixedString" value="ee113dde-55da-ce62-5d4e-a98ccf9606cd" />
 					<attribute id="Name" type="LSString" value="Tieflings_Male_Mephistopheles_Player_Strong_76b33e27-4a95-4e0d-8113-81b5c61fc2e1" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -4722,7 +4722,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="d5c3d399-d0a6-018a-caba-6e5496f3e939" />
-					<attribute id="BodySetVisual" type="FixedString" value="df0de3cc-f963-d569-a408-8225cea70605" />
+					<attribute id="BodySetVisual" type="FixedString" value="fb3af81e-0311-4366-9fa4-26361e585be8" />
 					<attribute id="ID" type="FixedString" value="ea87e65b-5d45-26c0-c5bf-54a974913b91" />
 					<attribute id="Name" type="LSString" value="Tieflings_Male_Zariel_Player_Strong_3232f9b3-2ad5-442c-9861-92624b258e5b" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
