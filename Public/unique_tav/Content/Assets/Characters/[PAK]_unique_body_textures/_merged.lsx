@@ -7,7 +7,7 @@
                 <children>
                     <node id="Resource">
                         <attribute id="BaseVisual" type="FixedString" value="32c30a04-896d-33fd-69eb-5c5ab5dfa284" />
-                        <attribute id="BodySetVisual" type="FixedString" value="820ddd41-7946-f026-099f-7034983d50d2" />
+                        <attribute id="BodySetVisual" type="FixedString" value="04883d8a-bbfa-46ff-8984-b257c871bec3" />
                         <attribute id="ID" type="FixedString" value="efd5dd7f-9b16-11dc-d077-fbf46fd92645" />
                         <attribute id="Localized" type="bool" value="False" />
                         <attribute id="Name" type="LSString" value="TIF_F_Base" />

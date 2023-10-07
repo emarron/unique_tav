@@ -5,7 +5,7 @@
 			<children>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="4b8ff439-0a98-6e6c-ad48-c695c1c29b27" />
-					<attribute id="BodySetVisual" type="FixedString" value="db6e5918-8514-4dcc-8363-e8fd3c50cce5" />
+					<attribute id="BodySetVisual" type="FixedString" value="53715306-dab4-4921-82e8-0c1a84171f79" />
 					<attribute id="ID" type="FixedString" value="65508880-7afc-74cf-97eb-8d85c80b79b4" />
 					<attribute id="Name" type="LSString" value="Humans_Female_Player_df4aee69-40ea-480d-aa96-1abe82c28b66" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -739,7 +739,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="c7c62a23-1ddc-6d56-7858-3bb5f3fe5a98" />
-					<attribute id="BodySetVisual" type="FixedString" value="9725b3db-6e40-054b-dc49-b8e479bc0cba" />
+					<attribute id="BodySetVisual" type="FixedString" value="b86e1014-a3c2-4a1e-8972-6b9b48faab22" />
 					<attribute id="ID" type="FixedString" value="3cea72b5-bbc3-a9d8-3bb9-edb85ef9738c" />
 					<attribute id="Name" type="LSString" value="Humans_Female_Strong_Player_3303e8f6-a7e4-4b24-b64c-d64bbc152803" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -1382,7 +1382,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="3773c64c-c5a9-9baf-1b85-6bee029ee044" />
-					<attribute id="BodySetVisual" type="FixedString" value="38cee76d-1a75-4419-9293-52e47fda65e9" />
+					<attribute id="BodySetVisual" type="FixedString" value="001232d5-2155-44b9-a238-ad4e01f9e87d" />
 					<attribute id="ID" type="FixedString" value="40b6c0b8-693d-3726-6819-acbc8481f208" />
 					<attribute id="Name" type="LSString" value="Humans_Male_Player_fd7f2707-8f86-4836-bda8-e0db99c389cc" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -2060,7 +2060,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="20b3ea2f-40db-418e-81fd-5dabe2d3e62b" />
-					<attribute id="BodySetVisual" type="FixedString" value="82ab6969-2889-4149-bd6f-c7922e320593" />
+					<attribute id="BodySetVisual" type="FixedString" value="12ae5f3b-d96f-4cb0-8025-39b16052259f" />
 					<attribute id="ID" type="FixedString" value="0a9d0823-9a79-7a0b-9d37-c0ae1976051f" />
 					<attribute id="Name" type="LSString" value="Humans_Male_Strong_Player_056fffd0-9009-4627-84c2-f0a22e311ec7" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />

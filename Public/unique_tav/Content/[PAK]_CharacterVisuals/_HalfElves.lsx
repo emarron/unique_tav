@@ -5,7 +5,7 @@
 			<children>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="235bf529-e7d8-a807-e5a5-01b9e8dcb815" />
-					<attribute id="BodySetVisual" type="FixedString" value="db6e5918-8514-4dcc-8363-e8fd3c50cce5" />
+					<attribute id="BodySetVisual" type="FixedString" value="53715306-dab4-4921-82e8-0c1a84171f79" />
 					<attribute id="ID" type="FixedString" value="1c36f857-0a5e-a0e2-66d9-9c5b24daf824" />
 					<attribute id="Name" type="LSString" value="HalfElves_Female_High_Player_01718a36-3102-4dd2-b141-4f5f042deb10" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -723,7 +723,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="235bf529-e7d8-a807-e5a5-01b9e8dcb815" />
-					<attribute id="BodySetVisual" type="FixedString" value="db6e5918-8514-4dcc-8363-e8fd3c50cce5" />
+					<attribute id="BodySetVisual" type="FixedString" value="53715306-dab4-4921-82e8-0c1a84171f79" />
 					<attribute id="ID" type="FixedString" value="d6b3078b-e4f1-ecfc-4801-b1a6da80e1be" />
 					<attribute id="Name" type="LSString" value="HalfElves_Female_Wood_Player_79823ceb-01e6-4edd-962a-51cc9d00573a" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -1315,7 +1315,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="235bf529-e7d8-a807-e5a5-01b9e8dcb815" />
-					<attribute id="BodySetVisual" type="FixedString" value="db6e5918-8514-4dcc-8363-e8fd3c50cce5" />
+					<attribute id="BodySetVisual" type="FixedString" value="53715306-dab4-4921-82e8-0c1a84171f79" />
 					<attribute id="ID" type="FixedString" value="eb625697-be9f-2820-6e2e-39d0d4a30a45" />
 					<attribute id="Name" type="LSString" value="BASE_HalfElves_Female_Drow_Player_72fc6418-6572-466e-bdc0-d7321006bf96" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -2072,7 +2072,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="738d6807-26d2-58e3-3906-e7b19347a124" />
-					<attribute id="BodySetVisual" type="FixedString" value="edb26736-c3d5-72a7-b69a-16b5720ba664" />
+					<attribute id="BodySetVisual" type="FixedString" value="b86e1014-a3c2-4a1e-8972-6b9b48faab22" />
 					<attribute id="ID" type="FixedString" value="3a01c388-506f-3b91-721a-9c5692db3357" />
 					<attribute id="Name" type="LSString" value="HalfElves_Female_High_Player_Strong_83d30a0f-aa95-4447-863e-1007208ac7bf" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -2644,7 +2644,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="738d6807-26d2-58e3-3906-e7b19347a124" />
-					<attribute id="BodySetVisual" type="FixedString" value="edb26736-c3d5-72a7-b69a-16b5720ba664" />
+					<attribute id="BodySetVisual" type="FixedString" value="b86e1014-a3c2-4a1e-8972-6b9b48faab22" />
 					<attribute id="ID" type="FixedString" value="639f5904-682b-2413-fbfc-191af52808b6" />
 					<attribute id="Name" type="LSString" value="HalfElves_Female_Wood_Player_Strong_c09d882c-677e-4089-a810-a62f21bf0487" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -3111,7 +3111,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="738d6807-26d2-58e3-3906-e7b19347a124" />
-					<attribute id="BodySetVisual" type="FixedString" value="edb26736-c3d5-72a7-b69a-16b5720ba664" />
+					<attribute id="BodySetVisual" type="FixedString" value="b86e1014-a3c2-4a1e-8972-6b9b48faab22" />
 					<attribute id="ID" type="FixedString" value="9f6ddfe1-e89d-c5e5-e54d-c1e2a755324c" />
 					<attribute id="Name" type="LSString" value="HalfElves_Female_Drow_Player_Strong_79e8f135-f3ea-4905-a65e-585c90517d20" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -3746,7 +3746,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="a3f2cad3-11d3-4316-4670-6bf33caf5d61" />
-					<attribute id="BodySetVisual" type="FixedString" value="38cee76d-1a75-4419-9293-52e47fda65e9" />
+					<attribute id="BodySetVisual" type="FixedString" value="001232d5-2155-44b9-a238-ad4e01f9e87d" />
 					<attribute id="ID" type="FixedString" value="d598ca76-ca77-2fb1-3010-ebff8dcaf3c5" />
 					<attribute id="Name" type="LSString" value="HalfElves_Male_High_Player_cc2efa0d-d72b-4394-bb11-57f4f494127a" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -4472,7 +4472,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="a3f2cad3-11d3-4316-4670-6bf33caf5d61" />
-					<attribute id="BodySetVisual" type="FixedString" value="38cee76d-1a75-4419-9293-52e47fda65e9" />
+					<attribute id="BodySetVisual" type="FixedString" value="001232d5-2155-44b9-a238-ad4e01f9e87d" />
 					<attribute id="ID" type="FixedString" value="0d8094d2-9d1e-6da2-b028-a1e376df46ce" />
 					<attribute id="Name" type="LSString" value="HalfElves_Male_High_Player_Dev_782183f9-ceb5-4a96-8ac4-56af0319641d" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -5198,7 +5198,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="a3f2cad3-11d3-4316-4670-6bf33caf5d61" />
-					<attribute id="BodySetVisual" type="FixedString" value="38cee76d-1a75-4419-9293-52e47fda65e9" />
+					<attribute id="BodySetVisual" type="FixedString" value="001232d5-2155-44b9-a238-ad4e01f9e87d" />
 					<attribute id="ID" type="FixedString" value="0ccfb296-7f21-9281-08e0-1d75992072bb" />
 					<attribute id="Name" type="LSString" value="HalfElves_Male_Wood_Player_80e26779-a7a8-4ac2-a934-5616ab5db8d7" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -5815,7 +5815,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="a3f2cad3-11d3-4316-4670-6bf33caf5d61" />
-					<attribute id="BodySetVisual" type="FixedString" value="38cee76d-1a75-4419-9293-52e47fda65e9" />
+					<attribute id="BodySetVisual" type="FixedString" value="001232d5-2155-44b9-a238-ad4e01f9e87d" />
 					<attribute id="ID" type="FixedString" value="a4453c57-324b-60de-7e9a-ba17e5c31ba3" />
 					<attribute id="Name" type="LSString" value="BASE_HalfElves_Male_Drow_Player_9b4d82b8-5cce-4d6e-9821-4b7902abc300" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -6480,7 +6480,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" />
-					<attribute id="BodySetVisual" type="FixedString" value="82ab6969-2889-4149-bd6f-c7922e320593" />
+					<attribute id="BodySetVisual" type="FixedString" value="12ae5f3b-d96f-4cb0-8025-39b16052259f" />
 					<attribute id="ID" type="FixedString" value="9f573c86-3162-1d53-884b-05d8a00511ab" />
 					<attribute id="Name" type="LSString" value="HalfElves_Male_High_Player_Strong_86b9b8fb-87bd-4a19-a034-adb38d7d90ab" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -7170,7 +7170,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" />
-					<attribute id="BodySetVisual" type="FixedString" value="82ab6969-2889-4149-bd6f-c7922e320593" />
+					<attribute id="BodySetVisual" type="FixedString" value="12ae5f3b-d96f-4cb0-8025-39b16052259f" />
 					<attribute id="ID" type="FixedString" value="a7739671-73cb-1005-8694-2ae556825885" />
 					<attribute id="Name" type="LSString" value="HalfElves_Male_Wood_Player_Strong_db42af19-b9c0-44f0-bba8-dd320b190492" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -7737,7 +7737,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="3820aabc-5d1f-16e7-50f0-e4f8bdb169b5" />
-					<attribute id="BodySetVisual" type="FixedString" value="82ab6969-2889-4149-bd6f-c7922e320593" />
+					<attribute id="BodySetVisual" type="FixedString" value="12ae5f3b-d96f-4cb0-8025-39b16052259f" />
 					<attribute id="ID" type="FixedString" value="e34dae3b-3dc7-3499-a68b-27288dbffd85" />
 					<attribute id="Name" type="LSString" value="HalfElves_Male_Drow_Player_Strong_431eb107-884f-482d-b11f-5ff275c91734" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
