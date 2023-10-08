@@ -1,4 +1,3 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
 	<version major="4" minor="0" revision="0" build="51" />
 	<region id="CharacterVisualBank">
@@ -289,64 +288,116 @@
 						</node>
 						<node id="RealMaterialOverrides">
 							<children>
-																<!-- larian start -->
+																
 								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_A.GTY_F_NKD_Head_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="241c5117-7159-43df-b661-c8ec283c7a3e" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_A.GTY_F_NKD_Head_A_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="241c5117-7159-43df-b661-c8ec283c7a3e" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_B.GTY_F_NKD_Head_B_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="a7f921ab-a4d7-4aa8-9ef1-be37a645fba4" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_B.GTY_F_NKD_Head_B_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="a7f921ab-a4d7-4aa8-9ef1-be37a645fba4" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_C.GTY_F_NKD_Head_C_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="9dc14b1e-592e-4fc5-8151-7cc759f1eb2d" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_C.GTY_F_NKD_Head_C_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="9dc14b1e-592e-4fc5-8151-7cc759f1eb2d" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_D.GTY_F_NKD_Head_D_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="b09c3703-4f23-420f-8aad-36a89b3533d5" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_D.GTY_F_NKD_Head_D_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="b09c3703-4f23-420f-8aad-36a89b3533d5" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_E.GTY_F_NKD_Head_E_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="2258c9ce-7178-4865-a192-f2bd1a629864" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_E.GTY_F_NKD_Head_E_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="2258c9ce-7178-4865-a192-f2bd1a629864" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_F.GTY_F_NKD_Head_F_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="018b24ec-d0b3-415d-8f23-34f19fcc3f92" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_F.GTY_F_NKD_Head_F_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="018b24ec-d0b3-415d-8f23-34f19fcc3f92" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_G.GTY_F_NKD_Head_G_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="fdf80897-4a06-478c-9046-c3661ae1761f" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_G.GTY_F_NKD_Head_G_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="fdf80897-4a06-478c-9046-c3661ae1761f" />
-								</node>
-							</children>
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_Vlaakith.GTY_F_NKD_Head_Vlaakith_Mesh_LOD1.8" />
+        <attribute id="MapValue" type="FixedString" value="bda0cd9c-94ff-40c6-995e-e5db43bf671a" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_Vlaakith.GTY_F_NKD_Head_Vlaakith_Mesh.0" />
+        <attribute id="MapValue" type="FixedString" value="89d3add0-32a8-4928-bf48-3bf9e4ff64e7" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_Vlaakith.GTY_F_NKD_Head_Vlaakith_Mesh_LOD2.11" />
+        <attribute id="MapValue" type="FixedString" value="2e29ed51-8a9a-4070-a65e-922870dbfd6b" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_A.GTY_F_NKD_Head_A_Mesh_LOD2.11" />
+        <attribute id="MapValue" type="FixedString" value="acca339d-b2f2-40f9-af30-d3a005a8844e" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_A.GTY_F_NKD_Head_A_Mesh.0" />
+        <attribute id="MapValue" type="FixedString" value="068ceb31-b57e-4379-b8db-96271308b8df" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_A.GTY_F_NKD_Head_A_Mesh_LOD1.8" />
+        <attribute id="MapValue" type="FixedString" value="6ec514f5-9939-424b-9737-195b5b3687cf" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_B.GTY_F_NKD_Head_B_Mesh_LOD1.8" />
+        <attribute id="MapValue" type="FixedString" value="37d491d9-5250-4ef5-b8d1-f987dc296652" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_B.GTY_F_NKD_Head_B_Mesh_LOD2.11" />
+        <attribute id="MapValue" type="FixedString" value="3843d77d-59ac-4531-9a1a-ab230a24d7f7" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_B.GTY_F_NKD_Head_B_Mesh.0" />
+        <attribute id="MapValue" type="FixedString" value="4ad7f3cd-c294-47bb-9bad-b870cb8517c3" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_C.GTY_F_NKD_Head_C_Mesh_LOD2.11" />
+        <attribute id="MapValue" type="FixedString" value="223053cd-4af1-4a73-9da9-1fea2bf0a674" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_C.GTY_F_NKD_Head_C_Mesh.0" />
+        <attribute id="MapValue" type="FixedString" value="5e1dc57f-cec5-420e-b882-86b5f64c9e56" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_C.GTY_F_NKD_Head_C_Mesh_LOD1.8" />
+        <attribute id="MapValue" type="FixedString" value="69d2ff5a-7ab8-4252-a06a-a52bcb487c55" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_D.GTY_F_NKD_Head_D_Mesh_LOD1.8" />
+        <attribute id="MapValue" type="FixedString" value="659266e9-af6c-4fc1-aac3-00e6247a9f84" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_D.GTY_F_NKD_Head_D_Mesh.0" />
+        <attribute id="MapValue" type="FixedString" value="89e259d2-53b3-4cd5-9202-c299cf5c8af1" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_D.GTY_F_NKD_Head_D_Mesh_LOD2.11" />
+        <attribute id="MapValue" type="FixedString" value="101e1d01-5b1f-43a9-b167-32df599cb678" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_E.GTY_F_NKD_Head_E_Mesh_LOD2.11" />
+        <attribute id="MapValue" type="FixedString" value="5687abd5-ea9a-4397-9715-95a249bfe37c" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_E.GTY_F_NKD_Head_E_Mesh.0" />
+        <attribute id="MapValue" type="FixedString" value="2fdd1a0a-8d80-4d3a-93be-021c8cace34e" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_E.GTY_F_NKD_Head_E_Mesh_LOD1.8" />
+        <attribute id="MapValue" type="FixedString" value="6998e9ff-b28c-4b83-a6e0-0fa5013c8b1d" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_F.GTY_F_NKD_Head_F_Mesh.0" />
+        <attribute id="MapValue" type="FixedString" value="a0eab2e1-595c-4b7f-81ab-d36af12dd1b6" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_F.GTY_F_NKD_Head_F_Mesh_LOD1.8" />
+        <attribute id="MapValue" type="FixedString" value="c47daa8a-4024-4ddb-a4a4-8885f402eafd" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_F.GTY_F_NKD_Head_F_Mesh_LOD2.11" />
+        <attribute id="MapValue" type="FixedString" value="d5b9f022-d07e-4d2e-b087-a1bdc6165058" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_G.GTY_F_NKD_Head_G_Mesh_LOD1.8" />
+        <attribute id="MapValue" type="FixedString" value="efbc5a15-bb8e-43c7-a249-d06127a4334a" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_G.GTY_F_NKD_Head_G_Mesh.0" />
+        <attribute id="MapValue" type="FixedString" value="a4774080-1b28-4666-ba7f-d867cbe0e87c" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_G.GTY_F_NKD_Head_G_Mesh_LOD2.11" />
+        <attribute id="MapValue" type="FixedString" value="5490947e-cf59-4019-ad65-fffc722d55e5" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_Laezel.GTY_F_NKD_Head_Laezel_Mesh_LOD2.11" />
+        <attribute id="MapValue" type="FixedString" value="df700bc6-04be-447f-96ed-ea8da07dc191" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_Laezel.GTY_F_NKD_Head_Laezel_Mesh_LOD1.8" />
+        <attribute id="MapValue" type="FixedString" value="accf4631-2427-4d71-9ebb-7e3926a32964" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_F_NKD_Head_Laezel.GTY_F_NKD_Head_Laezel_Mesh.0" />
+        <attribute id="MapValue" type="FixedString" value="b1e51b7f-fb94-4737-9fa3-60d2f7d6eb71" />
+    </node>
+    </children>
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
@@ -656,104 +707,176 @@
 						</node>
 						<node id="RealMaterialOverrides">
 							<children>
-																<!-- larian start -->
+																
 								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_A.GTY_M_NKD_Head_A_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="a7e1b8b5-efbd-4ab1-8467-ea727f148565" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_A.GTY_M_NKD_Head_A_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="a7e1b8b5-efbd-4ab1-8467-ea727f148565" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_B.GTY_M_NKD_Head_B_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="4953f4f6-2b49-40f7-80bf-dea82e17c90a" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_B.GTY_M_NKD_Head_B_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="4953f4f6-2b49-40f7-80bf-dea82e17c90a" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_C.GTY_M_NKD_Head_C_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="5df44a55-0ab4-4e86-afad-8021a422043a" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_C.GTY_M_NKD_Head_C_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="5df44a55-0ab4-4e86-afad-8021a422043a" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_D.GTY_M_NKD_Head_D_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="12c448f9-9a5a-4006-ad17-e41bd4edc19e" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_D.GTY_M_NKD_Head_D_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="12c448f9-9a5a-4006-ad17-e41bd4edc19e" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_E.GTY_M_NKD_Head_E_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="b7869dbf-278d-4580-9ccc-13a30e00bf00" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_E.GTY_M_NKD_Head_E_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="b7869dbf-278d-4580-9ccc-13a30e00bf00" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_F.GTY_M_NKD_Head_F_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="31b3815f-d350-4055-878a-2122d4aebea2" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_F.GTY_M_NKD_Head_F_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="31b3815f-d350-4055-878a-2122d4aebea2" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_G.GTY_M_NKD_Head_G_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="c4219bbb-9cb1-4466-b4af-d33138211530" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_G.GTY_M_NKD_Head_G_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="c4219bbb-9cb1-4466-b4af-d33138211530" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_H.GTY_M_NKD_Head_H_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="5aaa666b-cfed-4254-8077-314617af68cc" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_H.GTY_M_NKD_Head_H_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="5aaa666b-cfed-4254-8077-314617af68cc" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_I.GTY_M_NKD_Head_I_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="196f6bd3-e97b-4302-b5a2-19bfaea158c8" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_I.GTY_M_NKD_Head_I_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="196f6bd3-e97b-4302-b5a2-19bfaea158c8" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_Kithrak_Voss.GTY_M_NKD_Head_Kithrak_Voss_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="ab15031b-f067-420e-99fc-00a13761459e" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_Kithrak_Voss.GTY_M_NKD_Head_Kithrak_Voss_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="ab15031b-f067-420e-99fc-00a13761459e" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_Kithrak_Voss_Scarred.GTY_M_NKD_Head_Kithrak_Voss_Scarred_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="31ef8471-e562-4eb4-b28b-3384db652f2f" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_Kithrak_Voss_Scarred.GTY_M_NKD_Head_Kithrak_Voss_Scarred_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="31ef8471-e562-4eb4-b28b-3384db652f2f" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_Templar.GTY_M_NKD_Head_Templar_Mesh.0" />
-									<attribute id="MapValue" type="FixedString" value="bf5ef94a-2da3-4513-aa89-3b0ddcb7eb60" />
-								</node>
-								<node id="Object">
-									<attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_Templar.GTY_M_NKD_Head_Templar_Ears_Mesh.3" />
-									<attribute id="MapValue" type="FixedString" value="bf5ef94a-2da3-4513-aa89-3b0ddcb7eb60" />
-								</node>
-							</children>
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_Orpheus.GTY_M_NKD_Head_Orpheus_Mesh_LOD2.11" />
+        <attribute id="MapValue" type="FixedString" value="b6e3d585-43c6-45b2-a234-433364d65dee" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_Orpheus.GTY_M_NKD_Head_Orpheus_Mesh.0" />
+        <attribute id="MapValue" type="FixedString" value="fc83970e-6f40-4c8b-8996-4bac32ca8608" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_Orpheus.GTY_M_NKD_Head_Orpheus_Mesh_LOD1.8" />
+        <attribute id="MapValue" type="FixedString" value="7217f182-1c65-4a4e-804e-bf12aa014792" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_Templar.GTY_M_NKD_Head_Templar_Mesh.0" />
+        <attribute id="MapValue" type="FixedString" value="3876f780-4b63-490e-87a2-a6634c51ec6f" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_Templar.GTY_M_NKD_Head_Templar_Mesh_LOD1.8" />
+        <attribute id="MapValue" type="FixedString" value="579bdaa4-1337-44e4-a3dc-a37fbdff4e43" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_Templar.GTY_M_NKD_Head_Templar_Mesh_LOD2.11" />
+        <attribute id="MapValue" type="FixedString" value="effa5775-481c-4615-a690-5410fe17f4d9" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Elder_Head_A.GTY_M_NKD_Elder_Head_A_Mesh_LOD1.8" />
+        <attribute id="MapValue" type="FixedString" value="186ee840-be9c-40f8-aea7-a3528e2561cf" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Elder_Head_A.GTY_M_NKD_Elder_Head_A_Mesh_LOD2.11" />
+        <attribute id="MapValue" type="FixedString" value="b3930b9e-e9cc-4489-abc2-ab23ddb6a88b" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Elder_Head_A.GTY_M_NKD_Elder_Head_A_Mesh.0" />
+        <attribute id="MapValue" type="FixedString" value="37a56a9a-a793-4e1b-a915-b68e8a716b21" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_A.GTY_M_NKD_Head_A_Mesh_LOD2.11" />
+        <attribute id="MapValue" type="FixedString" value="779bee50-6b7f-4091-99a1-b0d476105cf1" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_A.GTY_M_NKD_Head_A_Mesh.0" />
+        <attribute id="MapValue" type="FixedString" value="6b2396e7-8d31-4544-a421-0eac1a90bb9e" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_A.GTY_M_NKD_Head_A_Mesh_LOD1.8" />
+        <attribute id="MapValue" type="FixedString" value="5d7733e3-64ec-4db7-b0f2-002fca860211" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_B.GTY_M_NKD_Head_B_Mesh_LOD2.11" />
+        <attribute id="MapValue" type="FixedString" value="1178f6da-ced7-4fdb-9827-8711d8f62fdf" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_B.GTY_M_NKD_Head_B_Mesh_LOD1.8" />
+        <attribute id="MapValue" type="FixedString" value="c4d5c35a-1393-4f93-bb77-13689324301e" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_B.GTY_M_NKD_Head_B_Mesh.0" />
+        <attribute id="MapValue" type="FixedString" value="33da1d66-0d5e-4460-a00d-36a616c09704" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_C.GTY_M_NKD_Head_C_Mesh_LOD2.11" />
+        <attribute id="MapValue" type="FixedString" value="03d6e632-828d-445b-afeb-e8ebabaa9428" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_C.GTY_M_NKD_Head_C_Mesh.0" />
+        <attribute id="MapValue" type="FixedString" value="9b48b438-49a7-4eb8-afc9-0b7155de763b" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_C.GTY_M_NKD_Head_C_Mesh_LOD1.8" />
+        <attribute id="MapValue" type="FixedString" value="043bfa35-3fd6-494d-9de0-7ca73fb7f5ef" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_D.GTY_M_NKD_Head_D_Mesh.0" />
+        <attribute id="MapValue" type="FixedString" value="4fd33dea-a766-44bf-b2ac-1a432ab4990e" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_D.GTY_M_NKD_Head_D_Mesh_LOD1.8" />
+        <attribute id="MapValue" type="FixedString" value="e9949d08-cc4a-474d-a405-335f95e66aa8" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_D.GTY_M_NKD_Head_D_Mesh_LOD2.11" />
+        <attribute id="MapValue" type="FixedString" value="cc17d25c-08ba-475b-8e54-0b7e17534b57" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_E.GTY_M_NKD_Head_E_Mesh_LOD1.8" />
+        <attribute id="MapValue" type="FixedString" value="5fe8c6fe-a032-418a-befc-1302e63a07d9" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_E.GTY_M_NKD_Head_E_Mesh.0" />
+        <attribute id="MapValue" type="FixedString" value="d1424d36-8c87-4045-95c5-4f3f2d6353f1" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_E.GTY_M_NKD_Head_E_Mesh_LOD2.11" />
+        <attribute id="MapValue" type="FixedString" value="f78b1678-a401-47ea-99d3-ca257104c51d" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_F.GTY_M_NKD_Head_F_Mesh.0" />
+        <attribute id="MapValue" type="FixedString" value="1cecf168-2b99-49c6-9a93-a7142c6a5bb0" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_F.GTY_M_NKD_Head_F_Mesh_LOD2.11" />
+        <attribute id="MapValue" type="FixedString" value="e1b46342-ad67-4cc5-9748-f5e8489420aa" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_F.GTY_M_NKD_Head_F_Mesh_LOD1.8" />
+        <attribute id="MapValue" type="FixedString" value="6bb18b09-83d0-442f-b993-f0e8cee74f60" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_G.GTY_M_NKD_Head_G_Mesh_LOD1.8" />
+        <attribute id="MapValue" type="FixedString" value="bfe00819-2ccc-4beb-86e7-e643129ebeb0" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_G.GTY_M_NKD_Head_G_Mesh.0" />
+        <attribute id="MapValue" type="FixedString" value="e92e1b6e-7e0f-4884-a401-e2f076e07a53" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_G.GTY_M_NKD_Head_G_Mesh_LOD2.11" />
+        <attribute id="MapValue" type="FixedString" value="a12fe83d-5cec-4807-b82c-53a96cdc269e" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_H.GTY_M_NKD_Head_H_Mesh_LOD1.8" />
+        <attribute id="MapValue" type="FixedString" value="04d8e66a-a70a-48ae-a501-f372238f3f20" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_H.GTY_M_NKD_Head_H_Mesh.0" />
+        <attribute id="MapValue" type="FixedString" value="8b3b18e3-2f42-48b2-9d0d-2ec8359fa80e" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_H.GTY_M_NKD_Head_H_Mesh_LOD2.11" />
+        <attribute id="MapValue" type="FixedString" value="9c71273f-89f4-4a29-a01b-20dac0a9842a" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_I.GTY_M_NKD_Head_I_Mesh_LOD2.11" />
+        <attribute id="MapValue" type="FixedString" value="54b3382a-6196-41d0-867f-12f3f5d3cb44" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_I.GTY_M_NKD_Head_I_Mesh.0" />
+        <attribute id="MapValue" type="FixedString" value="6de50733-c679-473a-af0e-aa724343a714" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_I.GTY_M_NKD_Head_I_Mesh_LOD1.8" />
+        <attribute id="MapValue" type="FixedString" value="0249da9e-ce12-44f6-89d9-615f298f9552" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_Kithrak_Voss.GTY_M_NKD_Head_Kithrak_Voss_Mesh.0" />
+        <attribute id="MapValue" type="FixedString" value="1878f6f1-22af-4bbd-b07a-c7cfb77ac4aa" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_Kithrak_Voss_Scarred.GTY_M_NKD_Head_Kithrak_Voss_Scarred_Mesh_LOD2.11" />
+        <attribute id="MapValue" type="FixedString" value="734400b5-18ac-4c31-8ed3-cd3f74477161" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_Kithrak_Voss.GTY_M_NKD_Head_Kithrak_Voss_Mesh_LOD1.8" />
+        <attribute id="MapValue" type="FixedString" value="2c68ad7f-4260-49eb-9379-6b7ed3f4b9b7" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_Kithrak_Voss_Scarred.GTY_M_NKD_Head_Kithrak_Voss_Scarred_Mesh.0" />
+        <attribute id="MapValue" type="FixedString" value="179e0064-56e3-4c54-958d-113f3e9057c3" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_Kithrak_Voss_Scarred.GTY_M_NKD_Head_Kithrak_Voss_Scarred_Mesh_LOD1.8" />
+        <attribute id="MapValue" type="FixedString" value="5a07ff84-e604-43f3-ab9c-d280dc636811" />
+    </node>
+    <node id="Object">
+        <attribute id="MapKey" type="FixedString" value="GTY_M_NKD_Head_Kithrak_Voss.GTY_M_NKD_Head_Kithrak_Voss_Mesh_LOD2.11" />
+        <attribute id="MapValue" type="FixedString" value="ac53834e-76b0-40f1-8e89-7a70f31f7fd4" />
+    </node>
+    </children>
 						</node>
 						<node id="Slots">
 							<attribute id="Bone" type="FixedString" value="" />
