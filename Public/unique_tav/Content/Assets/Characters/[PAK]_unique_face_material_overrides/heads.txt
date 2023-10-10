@@ -26,5 +26,11 @@ Strong Female Heads
 Themia's Sister (Face Preset or Head Replacer for Shadowheart or Minthara)
 Vemperen's Other Heads Repaired (Non-Replacer)
 
+
+race mods:
+Astralities' Tiefling Compendium
+Wine and Revelry (Playable Satyr Race)
+Half angel ( Aasimar 5E )
+Half Demon (Cambion)
 ignore:
 changelings by trips
