@@ -5,7 +5,7 @@
             <children>
                 <node id="Resource">
                     <attribute id="BaseVisual" type="FixedString" value="cc86c035-ec2b-1ab3-4d8d-5d39092c908c" />
-                    <attribute id="BodySetVisual" type="FixedString" value="15c6cbdb-a29e-f1d6-79f4-0f9b69384789" />
+                    <attribute id="BodySetVisual" type="FixedString" value="242d5818-bb9f-475b-9cb4-cb7000be93ba" />
                     <attribute id="ID" type="FixedString" value="7556599d-28e9-14df-15a5-3e3c9d01bea4" />
                     <attribute id="Name" type="LSString" value="Gnomes_Female_Forest_Player_7b532ee4-f59d-418c-8eff-7b6df269c355" />
                     <attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -486,7 +486,7 @@
                 </node>
                 <node id="Resource">
                     <attribute id="BaseVisual" type="FixedString" value="cc86c035-ec2b-1ab3-4d8d-5d39092c908c" />
-                    <attribute id="BodySetVisual" type="FixedString" value="15c6cbdb-a29e-f1d6-79f4-0f9b69384789" />
+                    <attribute id="BodySetVisual" type="FixedString" value="242d5818-bb9f-475b-9cb4-cb7000be93ba" />
                     <attribute id="ID" type="FixedString" value="4d66cbb8-05d8-807a-622c-55fbdf0719a9" />
                     <attribute id="Name" type="LSString" value="BASE_Gnomes_Female_Regular_Player_ebe6b8c1-6df3-491e-b48b-3b6350c5e324" />
                     <attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -988,7 +988,7 @@
                 </node>
                 <node id="Resource">
                     <attribute id="BaseVisual" type="FixedString" value="cc86c035-ec2b-1ab3-4d8d-5d39092c908c" />
-                    <attribute id="BodySetVisual" type="FixedString" value="15c6cbdb-a29e-f1d6-79f4-0f9b69384789" />
+                    <attribute id="BodySetVisual" type="FixedString" value="242d5818-bb9f-475b-9cb4-cb7000be93ba" />
                     <attribute id="ID" type="FixedString" value="2a1aaf1e-683f-9af2-c8d1-2354634bbc45" />
                     <attribute id="Name" type="LSString" value="BASE_Gnomes_Female_Deep_Player_ddb47381-471d-41ea-b269-2702ab9d7f83" />
                     <attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -1535,7 +1535,7 @@
                 </node>
                 <node id="Resource">
                     <attribute id="BaseVisual" type="FixedString" value="fae3bae2-d48f-6d66-5357-ec571a474b9c" />
-                    <attribute id="BodySetVisual" type="FixedString" value="c59f89aa-584f-615d-84d9-1d89e98c3d30" />
+                    <attribute id="BodySetVisual" type="FixedString" value="53ec04bc-c99f-4348-b2b7-685dc0bd24c5" />
                     <attribute id="ID" type="FixedString" value="00313806-830f-9427-8b09-f1505de92a50" />
                     <attribute id="Name" type="LSString" value="Gnomes_Male_Forest_Player_130fc56f-4361-41a4-955b-fee0e4541670" />
                     <attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -2003,7 +2003,7 @@
                 </node>
                 <node id="Resource">
                     <attribute id="BaseVisual" type="FixedString" value="fae3bae2-d48f-6d66-5357-ec571a474b9c" />
-                    <attribute id="BodySetVisual" type="FixedString" value="c59f89aa-584f-615d-84d9-1d89e98c3d30" />
+                    <attribute id="BodySetVisual" type="FixedString" value="53ec04bc-c99f-4348-b2b7-685dc0bd24c5" />
                     <attribute id="ID" type="FixedString" value="eabe1080-a24e-5aed-1a26-7594172bfefd" />
                     <attribute id="Name" type="LSString" value="BASE_Gnomes_Male_Regular_Player_c8129923-a547-4ee4-9c37-1138ea4df830" />
                     <attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -2508,7 +2508,7 @@
                 </node>
                 <node id="Resource">
                     <attribute id="BaseVisual" type="FixedString" value="fae3bae2-d48f-6d66-5357-ec571a474b9c" />
-                    <attribute id="BodySetVisual" type="FixedString" value="c59f89aa-584f-615d-84d9-1d89e98c3d30" />
+                    <attribute id="BodySetVisual" type="FixedString" value="53ec04bc-c99f-4348-b2b7-685dc0bd24c5" />
                     <attribute id="ID" type="FixedString" value="6bec6b31-b86b-2c6b-68e1-fea2a943fec5" />
                     <attribute id="Name" type="LSString" value="BASE_Gnomes_Male_Deep_Player_f660278d-6b97-4bfd-850d-66d40fd89d78" />
                     <attribute id="ShowEquipmentVisuals" type="bool" value="True" />

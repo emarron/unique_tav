@@ -5,7 +5,7 @@
 			<children>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="94fb3daa-14ee-b979-935d-9c6f94603235" />
-					<attribute id="BodySetVisual" type="FixedString" value="c50cc8ac-4e4c-9178-a19e-4969e6ccc55b" />
+					<attribute id="BodySetVisual" type="FixedString" value="f3fca6ef-18fe-43c1-b90d-2bf616e665c0" />
 					<attribute id="ID" type="FixedString" value="a871cdb8-4d0e-9de8-8221-1c1f8950b49d" />
 					<attribute id="Name" type="LSString" value="Halflings_Female_Lightfoot_Player_18878721-88ef-4dbc-a760-d1f6a9a20aea" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -547,7 +547,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="94fb3daa-14ee-b979-935d-9c6f94603235" />
-					<attribute id="BodySetVisual" type="FixedString" value="c50cc8ac-4e4c-9178-a19e-4969e6ccc55b" />
+					<attribute id="BodySetVisual" type="FixedString" value="f3fca6ef-18fe-43c1-b90d-2bf616e665c0" />
 					<attribute id="ID" type="FixedString" value="788c94fb-c9a1-fbc7-7fd4-03d8a031e66e" />
 					<attribute id="Name" type="LSString" value="Halflings_Female_Stout_Player_0c44cf75-a73c-4165-b57e-8a4af925214e" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -1061,7 +1061,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="409c4b1f-c20c-0435-41f5-215ce127ea5d" />
-					<attribute id="BodySetVisual" type="FixedString" value="3ddf6079-6af3-8391-6aa3-0d8582f4a396" />
+					<attribute id="BodySetVisual" type="FixedString" value="e7059bb9-1a9f-49a8-ae3d-10b3e0312d44" />
 					<attribute id="ID" type="FixedString" value="a05d6235-48f4-93be-d113-38c550815176" />
 					<attribute id="Name" type="LSString" value="Halflings_Male_Lightfoot_Player_598cd559-3fb9-4b23-a3b8-a8b5b5d7b8f7" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
@@ -1557,7 +1557,7 @@
 				</node>
 				<node id="Resource">
 					<attribute id="BaseVisual" type="FixedString" value="409c4b1f-c20c-0435-41f5-215ce127ea5d" />
-					<attribute id="BodySetVisual" type="FixedString" value="3ddf6079-6af3-8391-6aa3-0d8582f4a396" />
+					<attribute id="BodySetVisual" type="FixedString" value="e7059bb9-1a9f-49a8-ae3d-10b3e0312d44" />
 					<attribute id="ID" type="FixedString" value="8e776d9d-344a-3265-50a3-6bd2bd6de5f8" />
 					<attribute id="Name" type="LSString" value="Halflings_Male_Stout_Player_b18d6de5-7861-42fe-a464-8be9a67cfd16" />
 					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
