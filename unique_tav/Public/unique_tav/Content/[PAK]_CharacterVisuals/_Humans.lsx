@@ -374,6 +374,10 @@
                                     <attribute id="MapValue" type="FixedString" value="ea9031c8-94d7-49ee-baa8-0faeeab12188" />
                                 </node>
                                 <node id="Object">
+                                    <attribute id="MapKey" type="FixedString" value="HUM_F_NKD_Body_Genital_A_BushyHair.HUM_F_NKD_Body_Genital_A_BushyHair.0" />
+                                    <attribute id="MapValue" type="FixedString" value="02521b6f-9a2d-495b-aaf1-bc389dbb9832" />
+                                </node>
+                                <node id="Object">
                                     <attribute id="MapKey" type="FixedString" value="HUM_F_NKD_Body_Genital_B_NoHair.HUM_F_NKD_Body_Genital_B_NoHair_Mesh.0" />
                                     <attribute id="MapValue" type="FixedString" value="ea9031c8-94d7-49ee-baa8-0faeeab12188" />
                                 </node>
