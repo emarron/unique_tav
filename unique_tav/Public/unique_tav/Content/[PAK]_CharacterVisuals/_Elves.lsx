@@ -7293,6 +7293,12 @@
                         </node>
                         <node id="RealMaterialOverrides">
                             <children>
+                               <!-- new start -->
+                                <node id="Object">
+                                    <attribute id="MapKey" type="FixedString" value="HUM_FS_NKD_Body_Genital_B_NoHair.HUM_FS_NKD_Body_Genital_B_NoHair_Mesh.0" />
+                                    <attribute id="MapValue" type="FixedString" value="ea9031c8-94d7-49ee-baa8-0faeeab12188" />
+                                </node>
+                                <!-- new end -->
                                 <node id="Object">
                                     <attribute id="MapKey" type="FixedString" value="HUM_FS_NKD_Body_Genital_A.HUM_FS_NKD_Body_Genital_A_Mesh.0" />
                                     <attribute id="MapValue" type="FixedString" value="02521b6f-9a2d-495b-aaf1-bc389dbb9832" />
@@ -7308,14 +7314,6 @@
                                 <node id="Object">
                                     <attribute id="MapKey" type="FixedString" value="HUM_FS_NKD_Body_Genital_C.HUM_FS_NKD_Body_Genital_C_Mesh.0" />
                                     <attribute id="MapValue" type="FixedString" value="ce914a2d-1fd0-4f2c-96f0-82117b33daab" />
-                                </node>
-                                <node id="Object">
-                                    <attribute id="MapKey" type="FixedString" value="HUM_FS_NKD_Body_Genital_C_NoHair.HUM_FS_NKD_Body_Genital_C_NoHair_Mesh.0" />
-                                    <attribute id="MapValue" type="FixedString" value="ce914a2d-1fd0-4f2c-96f0-82117b33daab" />
-                                </node>
-                                <node id="Object">
-                                    <attribute id="MapKey" type="FixedString" value="HUM_FS_NKD_Body_Genital_D.HUM_FS_NKD_Body_Genital_D_Mesh.0" />
-                                    <attribute id="MapValue" type="FixedString" value="ea9031c8-94d7-49ee-baa8-0faeeab12188" />
                                 </node>
                                 <node id="Object">
                                     <attribute id="MapKey" type="FixedString" value="ELF_FS_NKD_Head_A_Remap.ELF_FS_NKD_Head_A_Remap_Mesh_LOD1.8" />
@@ -8565,6 +8563,12 @@
                         </node>
                         <node id="RealMaterialOverrides">
                             <children>
+                               <!-- new start -->
+                                <node id="Object">
+                                    <attribute id="MapKey" type="FixedString" value="HUM_FS_NKD_Body_Genital_B_NoHair.HUM_FS_NKD_Body_Genital_B_NoHair_Mesh.0" />
+                                    <attribute id="MapValue" type="FixedString" value="ea9031c8-94d7-49ee-baa8-0faeeab12188" />
+                                </node>
+                                <!-- new end -->
                                 <node id="Object">
                                     <attribute id="MapKey" type="FixedString" value="HUM_FS_NKD_Body_Genital_A.HUM_FS_NKD_Body_Genital_A_Mesh.0" />
                                     <attribute id="MapValue" type="FixedString" value="02521b6f-9a2d-495b-aaf1-bc389dbb9832" />
@@ -8580,14 +8584,6 @@
                                 <node id="Object">
                                     <attribute id="MapKey" type="FixedString" value="HUM_FS_NKD_Body_Genital_C.HUM_FS_NKD_Body_Genital_C_Mesh.0" />
                                     <attribute id="MapValue" type="FixedString" value="ce914a2d-1fd0-4f2c-96f0-82117b33daab" />
-                                </node>
-                                <node id="Object">
-                                    <attribute id="MapKey" type="FixedString" value="HUM_FS_NKD_Body_Genital_C_NoHair.HUM_FS_NKD_Body_Genital_C_NoHair_Mesh.0" />
-                                    <attribute id="MapValue" type="FixedString" value="ce914a2d-1fd0-4f2c-96f0-82117b33daab" />
-                                </node>
-                                <node id="Object">
-                                    <attribute id="MapKey" type="FixedString" value="HUM_FS_NKD_Body_Genital_D.HUM_FS_NKD_Body_Genital_D_Mesh.0" />
-                                    <attribute id="MapValue" type="FixedString" value="ea9031c8-94d7-49ee-baa8-0faeeab12188" />
                                 </node>
                                 <node id="Object">
                                     <attribute id="MapKey" type="FixedString" value="ELF_FS_NKD_Head_A_Remap.ELF_FS_NKD_Head_A_Remap_Mesh_LOD1.8" />
@@ -9843,6 +9839,12 @@
                         </node>
                         <node id="RealMaterialOverrides">
                             <children>
+                               <!-- new start -->
+                                <node id="Object">
+                                    <attribute id="MapKey" type="FixedString" value="HUM_FS_NKD_Body_Genital_B_NoHair.HUM_FS_NKD_Body_Genital_B_NoHair_Mesh.0" />
+                                    <attribute id="MapValue" type="FixedString" value="ea9031c8-94d7-49ee-baa8-0faeeab12188" />
+                                </node>
+                                <!-- new end -->
                                 <node id="Object">
                                     <attribute id="MapKey" type="FixedString" value="HUM_FS_NKD_Body_Genital_A.HUM_FS_NKD_Body_Genital_A_Mesh.0" />
                                     <attribute id="MapValue" type="FixedString" value="02521b6f-9a2d-495b-aaf1-bc389dbb9832" />
@@ -9858,14 +9860,6 @@
                                 <node id="Object">
                                     <attribute id="MapKey" type="FixedString" value="HUM_FS_NKD_Body_Genital_C.HUM_FS_NKD_Body_Genital_C_Mesh.0" />
                                     <attribute id="MapValue" type="FixedString" value="ce914a2d-1fd0-4f2c-96f0-82117b33daab" />
-                                </node>
-                                <node id="Object">
-                                    <attribute id="MapKey" type="FixedString" value="HUM_FS_NKD_Body_Genital_C_NoHair.HUM_FS_NKD_Body_Genital_C_NoHair_Mesh.0" />
-                                    <attribute id="MapValue" type="FixedString" value="ce914a2d-1fd0-4f2c-96f0-82117b33daab" />
-                                </node>
-                                <node id="Object">
-                                    <attribute id="MapKey" type="FixedString" value="HUM_FS_NKD_Body_Genital_D.HUM_FS_NKD_Body_Genital_D_Mesh.0" />
-                                    <attribute id="MapValue" type="FixedString" value="ea9031c8-94d7-49ee-baa8-0faeeab12188" />
                                 </node>
                                 <node id="Object">
                                     <attribute id="MapKey" type="FixedString" value="ELF_FS_NKD_Head_A_Remap.ELF_FS_NKD_Head_A_Remap_Mesh_LOD1.8" />
@@ -11156,6 +11150,12 @@
                         </node>
                         <node id="RealMaterialOverrides">
                             <children>
+                               <!-- new start -->
+                                <node id="Object">
+                                    <attribute id="MapKey" type="FixedString" value="HUM_FS_NKD_Body_Genital_B_NoHair.HUM_FS_NKD_Body_Genital_B_NoHair_Mesh.0" />
+                                    <attribute id="MapValue" type="FixedString" value="ea9031c8-94d7-49ee-baa8-0faeeab12188" />
+                                </node>
+                                <!-- new end -->
                                 <node id="Object">
                                     <attribute id="MapKey" type="FixedString" value="HUM_FS_NKD_Body_Genital_A.HUM_FS_NKD_Body_Genital_A_Mesh.0" />
                                     <attribute id="MapValue" type="FixedString" value="02521b6f-9a2d-495b-aaf1-bc389dbb9832" />
@@ -11171,14 +11171,6 @@
                                 <node id="Object">
                                     <attribute id="MapKey" type="FixedString" value="HUM_FS_NKD_Body_Genital_C.HUM_FS_NKD_Body_Genital_C_Mesh.0" />
                                     <attribute id="MapValue" type="FixedString" value="ce914a2d-1fd0-4f2c-96f0-82117b33daab" />
-                                </node>
-                                <node id="Object">
-                                    <attribute id="MapKey" type="FixedString" value="HUM_FS_NKD_Body_Genital_C_NoHair.HUM_FS_NKD_Body_Genital_C_NoHair_Mesh.0" />
-                                    <attribute id="MapValue" type="FixedString" value="ce914a2d-1fd0-4f2c-96f0-82117b33daab" />
-                                </node>
-                                <node id="Object">
-                                    <attribute id="MapKey" type="FixedString" value="HUM_FS_NKD_Body_Genital_D.HUM_FS_NKD_Body_Genital_D_Mesh.0" />
-                                    <attribute id="MapValue" type="FixedString" value="ea9031c8-94d7-49ee-baa8-0faeeab12188" />
                                 </node>
                                 <node id="Object">
                                     <attribute id="MapKey" type="FixedString" value="ELF_FS_NKD_Head_A_Remap.ELF_FS_NKD_Head_A_Remap_Mesh_LOD1.8" />
