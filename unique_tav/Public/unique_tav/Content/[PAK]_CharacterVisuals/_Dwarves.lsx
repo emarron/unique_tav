@@ -1463,7 +1463,7 @@
                                 <node id="Vector3Parameters">
                                     <attribute id="Color" type="bool" value="False" />
                                     <attribute id="Custom" type="bool" value="True" />
-                                    <attribute id="Enabled" type="bool" value="True" />
+                                    <attribute id="Enabled" type="bool" value="False" />
                                     <attribute id="Parameter" type="FixedString" value="Color_02" />
                                     <attribute id="Value" type="fvec3" value="0.08309819 0.2097316 0.07156883" />
                                 </node>
@@ -3289,7 +3289,7 @@
                                 <node id="Vector3Parameters">
                                     <attribute id="Color" type="bool" value="False" />
                                     <attribute id="Custom" type="bool" value="True" />
-                                    <attribute id="Enabled" type="bool" value="True" />
+                                    <attribute id="Enabled" type="bool" value="False" />
                                     <attribute id="Parameter" type="FixedString" value="Color_02" />
                                     <attribute id="Value" type="fvec3" value="0.0824142 0.2083596 0.07176144" />
                                 </node>
