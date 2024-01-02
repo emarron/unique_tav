@@ -44,10 +44,11 @@
                     <attribute id="Width" type="int32" value="4096" />
                     <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725656" />
                 </node>
+                <!-- kart note can't use as overwrite original assets for now -->
                 <node id="Resource">
                     <attribute id="Depth" type="int32" value="1" />
                     <attribute id="Height" type="int32" value="2048" />
-                    <attribute id="ID" type="FixedString" value="d6462d10-fc2d-8696-e829-b2e965872e32" />
+                    <attribute id="ID" type="FixedString" value="d6462d10-fc2d-8696-e829-ieatpaste666" />
                     <attribute id="Name" type="LSString" value="Skin_Shared_Scars_MSK_unique" />
                     <attribute id="SRGB" type="bool" value="False" />
                     <attribute id="SourceFile" type="LSString" value="Generated/Public/Shared/Assets/unique_tav/FACE/Skin_Shared_Scars_MSK.DDS" />
