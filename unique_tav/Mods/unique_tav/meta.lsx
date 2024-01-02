@@ -6,7 +6,7 @@
       <children>
         <node id="Dependencies"/>
         <node id="ModuleInfo">
-          <attribute id="Author" type="LSWString" value="kartoffel Trips KittHaven"/>
+          <attribute id="Author" type="LSWString" value="kartoffel Trips"/>
           <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
           <attribute id="Description" type="LSWString" value="Base version of unique_tav."/>
           <attribute id="Folder" type="LSWString" value="unique_tav"/>
@@ -22,7 +22,7 @@
           <attribute id="Tags" type="LSWString" value=""/>
           <attribute id="Type" type="FixedString" value="Add-on"/>
           <attribute id="UUID" type="FixedString" value="4cb0fd40-7212-4fe9-8733-9a8dbc6637ae"/>
-          <attribute id="Version" type="int64" value="36873221949095936"/>
+          <attribute id="Version" type="int64" value="36732490903191552"/>
           <children>
             <node id="Scripts"/>
             <node id="TargetModes">
