@@ -22,7 +22,7 @@
           <attribute id="Tags" type="LSWString" value=""/>
           <attribute id="Type" type="FixedString" value="Add-on"/>
           <attribute id="UUID" type="FixedString" value="4cb0fd40-7212-4fe9-8733-9a8dbc6637ae"/>
-          <attribute id="Version" type="int64" value="36873221949095936"/>
+          <attribute id="Version" type="int64" value="36873226244063232"/>
           <children>
             <node id="Scripts"/>
             <node id="TargetModes">
